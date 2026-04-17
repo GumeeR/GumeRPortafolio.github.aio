@@ -95,7 +95,7 @@ tech_stack = {
 ## 💼 Current experience
 
 - **CEO & Founder** @ **EfiRest COL** — SaaS CRM for restaurants (Jun 2025 — present)
-- **Software Developer** @ **Condor Suite by JKTIC** — LLM automation & embeddings (May 2025 — present)
+- **Software Developer** @ **Condor Suite by JKTIC** — LLM automation & embeddings (May 2025 — May 2026)
 - **Freelance Web Developer** — since 2019 (age 15)
 
 ---
